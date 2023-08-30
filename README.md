@@ -2,7 +2,25 @@
 
 ## SplatHub: An Open, Living Survey on 3D Gaussian Splatting for 3D Rendering
 
+## Publications
 
+Publications can be discussed in issues labelled [publication](https://github.com/w-m/awesome-3d-splatting-survey/issues?q=is%3Aissue+is%3Aopen+label%3Apublication)
+
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/w-m/awesome-3d-splatting-survey/issues/1)
+
+## Preprints
+
+Preprints can be discussed in issues labelled [preprint](https://github.com/w-m/awesome-3d-splatting-survey/issues?q=is%3Aissue+is%3Aopen+label%3Apreprint)
+
+- [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://github.com/w-m/awesome-3d-splatting-survey/issues/2)
+- [Flexible Techniques for Differentiable Rendering with 3D Gaussians](https://github.com/w-m/awesome-3d-splatting-survey/issues/3)
+
+## Implementations
+
+Implementations can be discussed in issues labelled [implementation](https://github.com/w-m/awesome-3d-splatting-survey/issues?q=is%3Aissue+is%3Aopen+label%3Aimplementation)
+
+- [gaussian-splatting-cuda](https://github.com/w-m/awesome-3d-splatting-survey/issues/4)
+- [gaussian-splatting-web](https://github.com/w-m/awesome-3d-splatting-survey/issues/5)
 
 ## License
 
