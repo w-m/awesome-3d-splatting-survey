@@ -2,6 +2,10 @@
 
 ## SplatHub: An Open, Living Survey on 3D Gaussian Splatting for 3D Rendering
 
+This repo compiles information on the 3D Gaussian Splatting for Real-Time Radiance Field Rendering technique and its derivations.
+
+It uses a new, experimental format: Each publication, talk and implementation will get assigned its own GitHub issue, where information can be collected and contents discussed. The most interesting results will find their way into survey.tex, which compiles the publications in a scientific survey format. The idea is to have a living document that gets updated continuously, with the text linking back to the GitHub issues for additional information.
+
 ## Publications
 
 Publications can be discussed in issues labelled [publication](https://github.com/w-m/awesome-3d-splatting-survey/issues?q=is%3Aissue+is%3Aopen+label%3Apublication)
